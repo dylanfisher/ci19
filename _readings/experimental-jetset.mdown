@@ -1,5 +1,0 @@
----
-title:            Interview
-author:           Experimental Jetset
-link:             http://www.designboom.com/design/experimental-jetset-interview/
----

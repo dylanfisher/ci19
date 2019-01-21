@@ -1,5 +1,0 @@
----
-title:            Why I Write
-author:           James Bridle
-link:             https://frieze.com/article/why-i-write-0
----

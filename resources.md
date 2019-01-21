@@ -39,16 +39,18 @@ git push                # transfers the files to GitHub
 - [CodePen](http://codepen.io/)
 - [Git Basics](http://rogerdudler.github.io/git-guide/)
 - [Hacker News](https://news.ycombinator.com/)
+- [Lynda](https://www.lynda.com/)
 
-### Typesetting
+### Typography
 
 - [The Elements of Typographic Style Applied to the Web](http://webtypography.net/)
+- [What the Font](https://www.myfonts.com/WhatTheFont/)
 - [Pro Web Type](https://prowebtype.com/)
 - [Character Cheat Sheet](https://www.typewolf.com/assets/typewolf_typography_cheatsheet.pdf)
 - [WhatFont Tool](http://www.chengyinliu.com/whatfont.html)
 - [Fonts in Use](http://fontsinuse.com/)
 
-### Contemporary Type Foundries
+### A few Contemporary Type Foundries
 
 - [Colophon](https://www.colophon-foundry.org/)
 - [Milieu Grotesque](http://www.milieugrotesque.com/)
@@ -61,7 +63,7 @@ git push                # transfers the files to GitHub
 - [Font Bureau](http://fontbureau.typenetwork.com/)
 - [Radim Pesko](http://www.radimpesko.com/)
 
-### Website Inspiration
+### Collections on Web Design
 
 - [Type Wolf](https://www.typewolf.com/)
 - [Hover States](http://hoverstat.es/)
@@ -69,8 +71,11 @@ git push                # transfers the files to GitHub
 - [Site Inspire](https://www.siteinspire.com/)
 - [HTTPster](https://httpster.net/2017/jan/)
 
-### Other Design Inspiration
+### Other Resources
 
+- [Are.na](https://www.are.na/)
+- [INtern Magazine](https://intern-mag.com/)
+- [The Creative Independent](https://thecreativeindependent.com/)
 - [It's Nice That](http://www.itsnicethat.com/)
 - [AIGA Eye on Design](https://eyeondesign.aiga.org/)
 - [Many Stuff](http://www.manystuff.org/)

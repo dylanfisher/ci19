@@ -1,5 +1,0 @@
----
-title:            Beyond Pong
-author:           James Bridle
-link:             https://www.theguardian.com/artanddesign/2014/jun/18/-sp-why-digital-art-matters
----

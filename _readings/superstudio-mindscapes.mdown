@@ -1,5 +1,0 @@
----
-title:            Mindscapes
-author:           Superstudio
-link:             /assets/readings/superstudio-mindscapes.pdf
----
