@@ -301,6 +301,7 @@ $reading-height: $reading-width / $reading-height-ratio;
   position: relative;
   display: inline-block;
   transition: transform 0.2s;
+  will-change: transform;
 
   &:hover {
     transform: scale(1.05);
