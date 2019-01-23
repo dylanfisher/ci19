@@ -22,3 +22,35 @@ date_range:       1/22 – 1/25
 - Read the excerpt from [Bruno Munari - Design As Art](../assets/readings/bruno-munari.pdf) as well as [this interview with Ann Colins](https://thecreativeindependent.com/people/film-editor-ann-collins-on-finding-the-beginning-middle-and-the-end/). Write a discussion question for both [here](https://docs.google.com/document/d/1nYuBgM6dkic-UNSpSNUgG__RvlkrsVUR38dVMbl9W38/edit?usp=sharing).
 
 ---
+
+### Wednesday, Lab
+
+- Introductions
+- Discuss Git, GitHub Pages and navigating the terminal: [GitHub lecture](/lectures/lab/github)
+
+### Homework
+
+1. Read [The seven rules of a great git commit message](http://chris.beams.io/posts/git-commit/#seven-rules)
+1. Customize the index of your GitHub page. Use as much (or little) HTML/CSS/JavaScript
+  as you feel comfortable with. Practice changing the file, committing it
+  with a message, and pushing the changes to GitHub. Everyone should come to class
+  on Week 2 with several additional commits logged. Make sure that your commit messages
+  are short, descriptive and represent the changes you make, just like the seven rules
+  recommends. You'll be using GitHub throughout the semester to post work online and
+  save your coding progress, so it's important to feel comfortable with this process.
+1. Read and/or review the following pages from w3schools. There will be a timed quiz next week that tests your knowledge of the concepts outlined in these pages.
+  - [Introduction](https://www.w3schools.com/html/html_intro.asp)
+  - [Text editors](https://www.w3schools.com/html/html_editors.asp)
+  - [Basic examples](https://www.w3schools.com/html/html_basic.asp)
+  - [HTML Elements](https://www.w3schools.com/html/html_elements.asp)
+  - [Attributes](https://www.w3schools.com/html/html_attributes.asp)
+  - [Headings](https://www.w3schools.com/html/html_headings.asp)
+  - [Paragraphs](https://www.w3schools.com/html/html_paragraphs.asp)
+  - [Text formatting](https://www.w3schools.com/html/html_formatting.asp)
+  - [Comments](https://www.w3schools.com/html/html_comments.asp)
+  - [Links](https://www.w3schools.com/html/html_links.asp)
+  - [Lists](https://www.w3schools.com/html/html_lists.asp)
+  - [Blocks](https://www.w3schools.com/html/html_blocks.asp)
+  - [Classes](https://www.w3schools.com/html/html_classes.asp)
+
+---
