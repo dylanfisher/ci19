@@ -54,3 +54,20 @@ date_range:       1/22 – 1/25
   - [Classes](https://www.w3schools.com/html/html_classes.asp)
 
 ---
+
+### Friday, Studio
+
+- Maddy presents on Bruno Munari
+- Class [discusses](https://docs.google.com/document/d/1nYuBgM6dkic-UNSpSNUgG__RvlkrsVUR38dVMbl9W38/edit?usp=sharing) the readings (Munari and Ann Colins interview)
+- [HTML Review](https://paper.dropbox.com/doc/CI-Week-1-HTML-Review--AWROHY~PM3eMntcP8biTSLvjAQ-jnUR7lnNiN13tMKCNpbvW)
+- Look at a few examples of the [net art pioneers](https://paper.dropbox.com/doc/Net-Art-Pioneers--AWSxzrV9HCu6pA8xSaehT_ZbAQ-RKztt2wZM1w5qKWXMBPS9) discuss our first memories of using the internet  as well as how the internet has changed in our lifetime
+- Working in small groups (of 2 or 3), present your ideas to each other. Describe what you&rsquo;re looking at, consider what the story is, analyze if the current assets are helping communicate the story. Consider which directions have the most potential, and what might make each one more interesting.
+- Watch last 30 minutes of [Lo and Behold](https://www.netflix.com/watch/80097363?source=35)
+
+### Homework
+- Decide on the direction of your project and have a selection of your 10 pieces. If you're using photos – remember that in webdesign, you want a file size that's the smallest possible. Aim to have images <1mb where you can, and always export for web in photoshop. Jpgs, pngs, svgs, gifs all OK. Avoid large scale images such as tiffs and do not use pdfs.
+- Have a clickable prototype of your project for Tuesday's class online
+- Pick a discussion leader
+- Read [Can the Internet Be Archived?](https://www.newyorker.com/magazine/2015/01/26/cobweb) and write a [discussion question](https://docs.google.com/document/d/15al68TvkBSFcG9sH8bvU5jqmKfVI5pYDwzq0Esqr-_U/edit?usp=sharing).
+
+---
