@@ -66,7 +66,7 @@ date_range:       1/22 – 1/25
 
 ### Homework
 - Decide on the direction of your project and have a selection of your 10 pieces. If you're using photos – remember that in webdesign, you want a file size that's the smallest possible. Aim to have images <1mb where you can, and always export for web in photoshop. Jpgs, pngs, svgs, gifs all OK. Avoid large scale images such as tiffs and do not use pdfs.
-- Have a clickable prototype of your project for Tuesday's class online
+- Have a clickable draft of your project for Tuesday's class online
 - Pick a discussion leader
 - Read [Can the Internet Be Archived?](https://www.newyorker.com/magazine/2015/01/26/cobweb) and write a [discussion question](https://docs.google.com/document/d/15al68TvkBSFcG9sH8bvU5jqmKfVI5pYDwzq0Esqr-_U/edit?usp=sharing).
 
