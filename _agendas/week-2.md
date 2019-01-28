@@ -1,7 +1,7 @@
 ---
-title:            Week 1
-start_date:       2019-01-23 00:00:00 -0500
-date_range:       1/22 – 1/25
+title:            Week 2
+start_date:       2019-01-28 00:00:00 -0500
+date_range:       1/29 – 2/01
 ---
 
 ### Tuesday, Studio
