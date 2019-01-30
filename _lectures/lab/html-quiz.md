@@ -41,8 +41,6 @@ Feel free to pick and choose which questions you answer first. Try to answer as 
 
 1. Describe the difference between block, inline-block and inline elements.
 
-Bonus
-
 1. Use CSS to style the musical genre classes you added in question 9. Give each genre a color and personality using CSS.
 
 1. If you have additional time, use CSS to style this quiz.
