@@ -15,3 +15,22 @@ date_range:       1/29 – 2/01
 ### Homework
 - Complete your Time Capsule project. Critique is on Friday.
 
+---
+
+### Wednesday, Lab
+
+- [HTML Quiz](/lectures/lab/html-quiz)
+- Lecture: [HTML & CSS, Part 1](/lectures/lab/html-css-part-1)
+- Wikipedia markup and styling exercise:
+  1. Find an article on Wikipedia.
+  1. Copy the main content of this article into three identical HTML files. Use semantic HTML to mark up the content. Headings should use proper heading tags,
+     paragraphs should be wrapped in `<p>` tags, lists should be wrapped in `<ul>` and `<li>` tags, etc.
+  1. Use CSS to style the content of the article in three distinct ways. The HTML markup in each direction should be the same.
+     The only thing you are changing is the CSS styles.
+
+### Homework
+
+- If you did not complete all questions from the HTML quiz, complete and upload this to GitHub before next class.
+- Complete the markup and styling exercise and upload to GitHub.
+- Update your GitHub pages repo by styling it using CSS. Make sure you are linking to an external stylesheet and adding all of your CSS to the external .css file.
+- Read [W3 School's CSS tutorials](https://www.w3schools.com/css/default.asp). Please skim the contents of each section under the "CSS Tutorial" sidebar. (That's the sections named "CSS HOME" through "CSS Website Layout").
