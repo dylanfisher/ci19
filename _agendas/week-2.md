@@ -34,3 +34,5 @@ date_range:       1/29 – 2/01
 - Complete the markup and styling exercise and upload to GitHub.
 - Update your GitHub pages repo by styling it using CSS. Make sure you are linking to an external stylesheet and adding all of your CSS to the external .css file.
 - Read [W3 School's CSS tutorials](https://www.w3schools.com/css/default.asp). Please skim the contents of each section under the "CSS Tutorial" sidebar. (That's the sections named "CSS HOME" through "CSS Website Layout").
+
+---
