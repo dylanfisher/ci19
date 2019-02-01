@@ -43,6 +43,7 @@ date_range:       1/29 – 2/01
 - [Talk about goals of a critique. What&rsquo;s the point? Why are we doing this?](https://paper.dropbox.com/doc/Critique-Process--AWvYNcNHjg3dtOdz0_znbGYRAQ-3olfNGk6T60QAelyLZNnj)
 - Time Capsule critique
 - Watch last 30 minutes of [Lo and Behold](https://www.netflix.com/watch/80097363?source=35)
+- Look at navigation exercise from Tuesday
 - Introduce project [Maxims](projects/maxims)
 
 ### Homework
