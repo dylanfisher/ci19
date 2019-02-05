@@ -9,6 +9,8 @@ date_range:       2/04 – 2/08
 - [Talk](https://docs.google.com/document/d/1SasK6M2XYBT9EggStuVZi0uh2W7wzJgV55KdRBmlVCo/edit?usp=sharing) about [I’m Prepared to Talk About the Things I Did in Iraq. Are People Ready to Listen? – Russell Worth Parker](https://www.nytimes.com/2019/01/17/magazine/iraq-marine-phraselator.html)
 - Remaining Time Capsule presentations: Gavin, Aeva, Vesper, Amal, Colin, Sierra and Mary
 - Talk about Time Capsules, what stood out?
+- Discuss [Maxims](../projects/maxims)
+- Look at [type based examples](https://paper.dropbox.com/doc/Maxims-Intro--AW~BFslrzOPVY04oCWHg~kKaAQ-9cOXvdWgpIaryO6sXXUFm)
 - Look at navigation exercise from previous day
 
 ### Homework
