@@ -12,6 +12,7 @@ date_range:       2/04 – 2/08
 - Discuss [Maxims](../projects/maxims)
 - Look at [type based examples](https://paper.dropbox.com/doc/Maxims-Intro--AW~BFslrzOPVY04oCWHg~kKaAQ-9cOXvdWgpIaryO6sXXUFm)
 - Look at navigation exercise from previous day
+- Watch last 30 minutes of [Lo and Behold](https://www.netflix.com/watch/80097363?source=35)
 
 ### Homework
 - Read through [Maxims](../projects/maxims) and create a presentation that introduces 3 different ideas for the contents of your text. The presentation should introduce each concept and begin exploring what it will look like.
