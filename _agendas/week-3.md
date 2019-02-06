@@ -21,3 +21,17 @@ date_range:       2/04 – 2/08
 
 ---
 
+### Wednesday, Lab
+
+- Discuss [common problems](https://paper.dropbox.com/doc/Common-Problems-Week-3--AXAHkhzAaFPYOsXlxeDw3GXDAg-w3RAUoli8MTo13ddl10yy) related to quiz and Wikipedia exercise.
+- Troubleshooting programming problems remotely:
+  1. Push your most recent code to GitHub before reaching out for help.
+  1. Send me an email with a link directly to the file on GitHub where you are having trouble. For example: [https://github.com/dylanfisher/ci19/commit/36fab3db](https://github.com/dylanfisher/ci19/commit/36fab3db54f52025af0248f88bc670f0ece305be).
+     I will be able to make comments directly to your code in GitHub.
+  1. Include screenshots of the problems you are describing.
+- [Talk about Flexbox and Positioning](https://paper.dropbox.com/doc/Positioning-and-Flexbox--AXAqDW7h2mpeQG1OiF41cv2tAg-l6eZyQTEEuUEklpPJaD86)
+
+### Homework
+
+- Finish your [Geometric Abstraction](https://paper.dropbox.com/doc/Flexbox-and-Positioning--AXAqDW7h2mpeQG1OiF41cv2tAg-l6eZyQTEEuUEklpPJaD86#:uid=210761527796846709650273&h2=Geometric-Abstraction-Exercise)
+  composition and upload to GitHub. Please also upload your Flexbox and positioning experiments that you did in class to GitHub if you did not already.
