@@ -50,6 +50,7 @@ date_range:       2/04 – 2/08
 ### Homework
 
 - Based on today&rsquo;s feedback, pick one direction for your assignment and consolidate all our maxims into an are.na channel.
+- Create another are.na channel where you collect visual references for your maxims project. Next week, I'll ask you to present 3 different visual directions, so begin thinking about this now.
 - Begin considering different ways someone could view the maxims. Create a userlow and wireframe for your project. You&rsquo;re encouraged to experiment and explore several ideas, but pick one that&rsquo;s general enough that can be elaborated upon in the design phase. Use Sketch to do both of these and have them in one document on separate pages by next class.
 - Read [The Web&rsquo;s Grain by Frank Chimero](https://frankchimero.com/writing/the-webs-grain/) and write a [discussion question](https://docs.google.com/document/d/1IXcT8DUDbmWsiJnMsmX5MK7J1VgufhrgikVV3Kq1tJI/edit?usp=sharing). Pick a discussion leader!
 
