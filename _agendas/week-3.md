@@ -35,3 +35,21 @@ date_range:       2/04 – 2/08
 
 - Finish your [Geometric Abstraction](https://paper.dropbox.com/doc/Flexbox-and-Positioning--AXAqDW7h2mpeQG1OiF41cv2tAg-l6eZyQTEEuUEklpPJaD86#:uid=210761527796846709650273&h2=Geometric-Abstraction-Exercise)
   composition and upload to GitHub. Please also upload your Flexbox and positioning experiments that you did in class to GitHub if you did not already.
+
+---
+
+### Friday, Studio
+
+- Amaya presents on the below
+- [Talk](https://www.dropbox.com/s/p1ikztkma7mi0xf/yale-reader.pdf?dl=0) about [art.yale.edu](https://www.dropbox.com/s/p1ikztkma7mi0xf/yale-reader.pdf?dl=0)
+- Reminder regarding Core Interaction tutors and our T.A
+- Introduce [Sketch, userflow and wireframes](https://paper.dropbox.com/doc/User-Flows-and-Wireframes--AXKIiGCUq52XdCS8VrZujFU7AQ-SiwIpBpGAlNBJuYgQbugm)
+- Introduce [are.na](https://www.are.na/)
+- Present your projects to a partner and work on homework. I&rsquo;ll go around to meet about your project.
+
+### Homework
+
+- Based on today&rsquo;s feedback, pick one direction for your assignment and consolidate all our maxims into an are.na channel.
+- Begin considering different ways someone could view the maxims. Create a userlow and wireframe for your project. You&rsquo;re encouraged to experiment and explore several ideas, but pick one that&rsquo;s general enough that can be elaborated upon in the design phase. Use Sketch to do both of these and have them in one document on separate pages by next class.
+- Read [The Web&rsquo;s Grain by Frank Chimero](https://frankchimero.com/writing/the-webs-grain/) and write a [discussion question](https://docs.google.com/document/d/1IXcT8DUDbmWsiJnMsmX5MK7J1VgufhrgikVV3Kq1tJI/edit?usp=sharing). Pick a discussion leader!
+
