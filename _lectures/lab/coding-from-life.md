@@ -26,7 +26,7 @@ elements in a fluid manner so that they maintain their position and scale when a
 You will likely need to alter the `z-index` of elements if you want items to overlap.
 
 You can create round borders using `border-radius`, and control each corner's radius individually with
-`boreder-radius-top-left`, `border-radius-bottom-left`, etc.
+`border-radius-top-left`, `border-radius-bottom-left`, etc.
 
 You may need to `rotate` elements by using the `transform` property.
 
