@@ -42,3 +42,14 @@ Once your archive is complete and correctly linked to each student's sketch, add
 archive, and to your two sketches.
 
 ---
+
+### Tuesday, Friday
+
+- Trudy presents on The Diminishing Marginal Value of Aesthetics and we talk about it
+- Students present their 3 concepts for Maxims
+- Look at the hovering activity
+- Time permitting: discuss CSS animations
+
+### Homework
+
+Pick a direction for your project and have a fleshed out design of all necessary pages to class (in Sketch is fine)
