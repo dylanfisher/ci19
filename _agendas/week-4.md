@@ -43,7 +43,7 @@ archive, and to your two sketches.
 
 ---
 
-### Tuesday, Friday
+### Friday, Studio
 
 - Trudy presents on The Diminishing Marginal Value of Aesthetics and we talk about it
 - Students present their 3 concepts for Maxims
