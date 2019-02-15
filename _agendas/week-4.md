@@ -46,7 +46,7 @@ archive, and to your two sketches.
 ### Friday, Studio
 
 - Trudy presents on The Diminishing Marginal Value of Aesthetics and we talk about it
-- Students present their 3 concepts for Maxims
+- Students present their 3 concepts for Maxims, paste your share-able InVision link [here](https://docs.google.com/document/d/16IYrBr4T0KAeIipd8Kbve20sc1MP0UuYQwr4jwNjF_k/edit?usp=sharing)
 - Look at the hovering activity
 - Time permitting: discuss CSS animations
 
