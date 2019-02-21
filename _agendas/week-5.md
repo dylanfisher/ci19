@@ -24,3 +24,17 @@ date_range:       2/19 – 2/22
 
 - Continue programming Maxims projects. If you'd like additional in-person programming help please reach out to our [Tutor Specialists](/info/#tutor-schedule)!
   A new signup sheet has been created to help facilitate meetings with the Core Interaction-wide tutors: [Signup Sheet](https://docs.google.com/spreadsheets/d/1yqviQcM3KGly1pCKnrEag9YNXc3BRX0ciYH5Rk9NbgY/edit?usp=sharing).
+
+---
+
+### Friday, Studio
+
+- Scarlet presents on Ducks and Decorated Sheds and we chat about it
+- Work day with one on one meetings
+
+
+### Homework
+
+- Complete your project for class on Tuesday
+- If you'd like additional in-person programming help please reach out to our [Tutor Specialists](/info/#tutor-schedule)!
+  A new signup sheet has been created to help facilitate meetings with the Core Interaction-wide tutors: [Signup Sheet](https://docs.google.com/spreadsheets/d/1yqviQcM3KGly1pCKnrEag9YNXc3BRX0ciYH5Rk9NbgY/edit?usp=sharing).
