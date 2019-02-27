@@ -11,3 +11,14 @@ date_range:       2/26 – 3/1
 ### Homework
 - Take a break!
 
+---
+
+### Wednesday, Lab
+
+- Review [JavaScript in 14 Minutes](https://jgthms.com/javascript-in-14-minutes/)
+- Lecture [JavaScript Introduction](/lectures/lab/javascript-introduction)
+- In-class exercise and homework: [JavaScript Intro Exercise](/lectures/lab/javascript-intro-exercise)
+
+### Homework
+
+- Complete the [JavaScript Intro Exercise](/lectures/lab/javascript-intro-exercise)
