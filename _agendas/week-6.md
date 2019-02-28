@@ -30,7 +30,6 @@ date_range:       2/26 – 3/1
 - Assess feelings around speed critique? How can we make it better?
 - [In Class Activity: Media Queries, CSS Animations, SVGs and finsihing touches!](https://paper.dropbox.com/doc/CI19-CSS-Animations--AYeoMLxmj9jaYfSEW_IGgQVpAQ-s0wVo7LJyRk9nertZBoVK)
 - Introduce [AMA](projects/obsessions)
-- Look at everyone&rsquos; animation activity
 
 ### Homework
 - Finish your in class abstracted environment
