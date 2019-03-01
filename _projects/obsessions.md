@@ -18,14 +18,3 @@ For this project, come up with a question you’d like to explore. Devise a plan
 6. Project must have a title and favicon.
 7. Please include a paragraph on why you chose this collection of items to archive and your intention behind organizing it the way that you have.
 8. You will be graded on concept, execution, and consistency.
-
-### Deadlines
-
-Due March 15th. Check agenda for increments.
-
----
-
-### Technical Requirements
-
-- HTML and CSS. May use jQuery.
-- Project must work on a variety of screen sizes
