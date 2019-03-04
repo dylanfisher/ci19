@@ -29,9 +29,9 @@ date_range:       2/26 – 3/1
 
 - Assess feelings around speed critique? How can we make it better?
 - [In Class Activity: Media Queries, CSS Animations, SVGs and finishing touches!](https://paper.dropbox.com/doc/CI19-CSS-Animations--AYeoMLxmj9jaYfSEW_IGgQVpAQ-s0wVo7LJyRk9nertZBoVK)
-- Introduce [AMA](projects/obsessions)
+- Introduce [AMA](../projects/obsessions)
 
 ### Homework
 - Finish your in class abstracted environment
 - Brainstorm ideas for AMA. Come to class with three different questions you&rsquo;re considering.
-- Reading: [Junkspace by Rem Koolhaas](assets/readings/koolhaas-rem_junkspace.pdf) Colin is the discussion leader
+- Reading: [Junkspace by Rem Koolhaas](../assets/readings/koolhaas-rem_junkspace.pdf) Colin is the discussion leader
