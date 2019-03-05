@@ -15,6 +15,3 @@ For this project, come up with a question you’d like to explore. Devise a plan
 3. Consider how you’ll present your answers. With text? Images? Drawings? Photographs?
 4. Consider how the user interacts with your archive, and how the archive is experienced. Is it immediately accessible in its entirety, or is the user required to discover it?
 5. The project is required to have at least two views: a view at a glance, and a detailed view where you can explore specific entries and learn more information.
-6. Project must have a title and favicon.
-7. Please include a paragraph on why you chose this collection of items to archive and your intention behind organizing it the way that you have.
-8. You will be graded on concept, execution, and consistency.
