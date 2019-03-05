@@ -19,7 +19,8 @@ date_range:       3/5 – 3/8
     - Who are you going to be interviewing? Introduce the population and devise a plan of how you&rsquo;ll gather the evidence.
     - What kind of documentation are you going to do? Create a plan and proposal for this.
     - Lastly, share some ideas on what you think you&rsquo;ll discover upon doing this.
-    - Project will be due after spring break.
+  - All your data needs to be collected by March 15
+  - Final project will be due April 5
 
 ---
 
