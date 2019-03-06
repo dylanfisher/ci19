@@ -24,3 +24,13 @@ date_range:       3/5 – 3/8
 
 ---
 
+### Wednesday, Lab
+
+- Lecture: [jQuery and DOM Manipulation](/lectures/lab/jquery-and-dom-manipulation)
+- [jQuery in-class exercises](/lectures/lab/html-css-jquery-in-class-exercises)
+
+### Homework
+
+- Finish the jQuery in-class exercies and post to your GitHub account.
+
+---
