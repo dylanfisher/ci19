@@ -34,3 +34,12 @@ date_range:       3/5 – 3/8
 - Finish the jQuery in-class exercies and post to your GitHub account.
 
 ---
+
+### Friday, Studio
+
+- Students present their questions
+- Time permitting: begin looking at documentation exercise. Project owner will respond and give feedback.
+
+### Homework
+
+- Finetune your question based on today and begin collecting your data
