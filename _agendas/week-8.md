@@ -1,7 +1,7 @@
 ---
 title:            Week 8
-start_date:       2019-02-12 00:00:00 -0500
-date_range:       3/11 – 3/15
+start_date:       2019-03-11 00:00:00 -0500
+date_range:       3/12 – 3/15
 ---
 
 ### Tuesday, Studio
@@ -14,5 +14,15 @@ date_range:       3/11 – 3/15
 ### Homework
 - Finish collecting your data. Be prepared to share your results on Friday
 - Come to class with 3 potential design directions for your project once you have some data.
+
+---
+
+### Wednesday, Lab
+
+- Excercise: [Programming a Clock](https://paper.dropbox.com/doc/Programming-a-Clock--AZPw18vxw2heiGWGz5HWUp8eAg-qvlDAfN72TFhEdsJkBBBH)
+
+### Homework
+
+- Finish your clocks and add a link to the exercise on your website.
 
 ---
