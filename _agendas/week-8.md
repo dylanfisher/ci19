@@ -33,5 +33,5 @@ date_range:       3/12 – 3/15
 - While you&rsquo;re meeting with each other, I will be sharing midterm evaluations with each student.
 
 ### Homework
-- No homework! BUT, as soon as we&rsquo;re back, we&rsquo;ll be moving at full speed. Project is due on April 5.
-- enjoy spring break!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+- Have a draft of your project design for class on Tuesday. Project is due on April 5.
+- enjoy spring break!!
