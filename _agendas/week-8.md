@@ -33,5 +33,5 @@ date_range:       3/12 – 3/15
 - While you&rsquo;re meeting with each other, I will be sharing midterm evaluations with each student.
 
 ### Homework
-- Have a draft of your project design for class on Tuesday. Project is due on April 5.
+- Have a complete draft of your project design for class on Tuesday (in Sketch is fine). Project is due on April 5.
 - enjoy spring break!!
