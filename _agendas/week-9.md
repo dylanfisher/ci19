@@ -30,3 +30,14 @@ date_range:       3/26 – 3/29
   - Core Interaction-wide TA schedule [is here](https://docs.google.com/spreadsheets/d/1yqviQcM3KGly1pCKnrEag9YNXc3BRX0ciYH5Rk9NbgY).
 
 ---
+
+### Friday, Studio
+
+- Sierra presents on Luna Maurer and studio Moniker
+- [Mobile Workshop and Activity](https://paper.dropbox.com/doc/Designing-for-Mobile--AaO~PDSOeWo0q5W14HvlKWsGAQ-c91jVmCrbdHSaLGHQrbFa)
+- Individual meetings + Work Day
+
+### Homework
+
+- Continue working on your project. Due one week from today with guest critic
+- Reading: [The Woman Who Gave Macintosh a Smile / Susan Kare](https://www.newyorker.com/culture/cultural-comment/the-woman-who-gave-the-macintosh-a-smile)
