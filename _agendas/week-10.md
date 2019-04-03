@@ -14,3 +14,13 @@ date_range:       4/2 – 4/5
 - Finish your project and have them uploaded to your class site before the start of class on Friday. Make sure to test your links online (not locally) before the critique
 
 ---
+
+### Wednesday, Lab
+
+- Workshop time. AMA projects are due Friday.
+
+### Homework
+
+- Finish programming AMA project and upload to your website.
+
+---
