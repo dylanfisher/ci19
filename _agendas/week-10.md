@@ -24,3 +24,27 @@ date_range:       4/2 – 4/5
 - Finish programming AMA project and upload to your website.
 
 ---
+
+### Friday, Studio
+
+- Critique day with guest critic, [Biba Kosmerl](https://bibakosmerl.com/)
+- Presentation order:
+1. Mary
+1. Amal
+1. Scarlet
+1. Julia
+1. Trudy
+1. Aileen
+1. Simran
+1. Amaya
+1. Cecilia
+1. Colin
+1. Maddie
+1. Sierra
+1. Gavin
+1. Aeva
+1. Vesper
+1. Phoebe
+
+### Homework
+- Take a break
