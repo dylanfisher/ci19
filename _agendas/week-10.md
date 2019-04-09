@@ -29,7 +29,6 @@ date_range:       4/2 – 4/5
 
 - Critique day with guest critic, [Biba Kosmerl](https://bibakosmerl.com/)
 - Presentation order:
-1. Mary
 1. Amal
 1. Scarlet
 1. Julia
@@ -37,6 +36,7 @@ date_range:       4/2 – 4/5
 1. Aileen
 1. Simran
 1. Amaya
+
 1. Cecilia
 1. Colin
 1. Maddie
@@ -45,6 +45,7 @@ date_range:       4/2 – 4/5
 1. Aeva
 1. Vesper
 1. Phoebe
+11. Mary
 
 ### Homework
 - Take a break

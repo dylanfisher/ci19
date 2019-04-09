@@ -1,5 +1,5 @@
 ---
-title:            Live Data
+title:            Evolving Website
 date:             2019-01-21 00:00:00 -0500
 index:            5
 categories:       Studio Lab
@@ -7,11 +7,13 @@ categories:       Studio Lab
 ---
 
 ### Overview
-We’ve explored different ways that you can use the web for personal publishing, art, storage and reading. Now, let’s consider another difference between print and digital design – it’s live! Not only is it easy to change and update digital work, you also have access to an entire community of data and people. How can you use information that’s stored in a public API to continue exploring your work? Can you use data from an API to create a narrative or explore another topic of your choice? Choose a public API from this list. Consider different ways to view the content: one by one? at random? in a list? Consider also adding additional content to the page. How does the meaning of the advice change when matched with imagery? What kind of imagery would be appropriate?
+We’ve explored different ways that you can use the web for personal publishing, art, storage and reading. Now, let’s consider another difference between print and digital design – it’s live! Not only is it easy to change and update digital work, you also have access to an entire community of data and people. How can you use information that’s stored in a public API to continue exploring your work?
+
+Choose a public API from [this list](https://github.com/toddmotto/public-apis). Consider how you can use the contents of an API in a meaningful way. Can you add interest to the API by using it outside of the way it was intended? You&rsquo;ll create a website that's alive and evolving. With this in mind, how will you design an interface that will change and interact with a constant stream of information that isn&rsquo;t always the same?
 
 ### Deadlines
 
-Due May 10th. Check agenda for increments.
+Due May 10th
 
 ---
 
