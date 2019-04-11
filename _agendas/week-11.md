@@ -29,3 +29,13 @@ date_range:       4/9 – 4/12
   should respond to changes in the weather.
 
 ---
+
+### Friday
+- Vesper presents on [Beyond the Interface](https://voices.basedesign.com/beyond-the-interface-6ab9dd725c5d)
+- Students present their project concepts
+- Discuss a few examples of [evolving content](https://paper.dropbox.com/doc/Evolving-Content--AbFLwzLLILR~di7UsMUsiflPAQ-4GwTXZtD3CbcPUESw0Jj2)
+
+### Homework
+
+- Reading: [Too Much World: Is the Internet Dead? – Hito Steyerl](https://www.e-flux.com/journal/49/60004/too-much-world-is-the-internet-dead/)
+- Decide on a concept for your project. Create an are.na channel for it where you collect at least 10 references (research, code snippets, existing artists, image ideas). Begin to develop three different design directions for your project and be ready to share progress in class.s
