@@ -32,7 +32,7 @@ date_range:       4/9 – 4/12
 
 ### Friday
 - Vesper presents on [Beyond the Interface](https://voices.basedesign.com/beyond-the-interface-6ab9dd725c5d)
-- Students present their project concepts
+- Students present their project concepts in medium sized groups (4 people)
 - Discuss a few examples of [evolving content](https://paper.dropbox.com/doc/Evolving-Content--AbFLwzLLILR~di7UsMUsiflPAQ-4GwTXZtD3CbcPUESw0Jj2)
 
 ### Homework
