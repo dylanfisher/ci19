@@ -1,7 +1,7 @@
 ---
 title:            Week 12
 start_date:       2019-04-16 00:00:00 -0500
-date_range:       4/9 – 4/12
+date_range:       4/16 – 4/19
 ---
 
 ### Tuesday, Studio
