@@ -7,7 +7,7 @@ date_range:       4/16 – 4/19
 ### Tuesday, Studio
 
 - Phoebe presents on [Too Much World: Is the Internet Dead? – Hito Steyerl](https://www.e-flux.com/journal/49/60004/too-much-world-is-the-internet-dead/) and we discuss & watch examples of Hito Steyrl's work
-- Working in medium sized groups (4 people), present your project progress ot eachother. I&rsquo;ll go around and meet with everyone on one.
+- Working in medium sized groups (4 people), present your project progress to each other. I&rsquo;ll go around and meet with everyone one on one.
 - Time permitting: [Watch The Internet with a Human Face](https://www.youtube.com/watch?v=fWFo1VaQNmU&t=2383s)
 
 ### Homework
@@ -17,3 +17,16 @@ date_range:       4/16 – 4/19
 
 ---
 
+### Wednesday, Lab
+
+- Discuss challenges from last week's exercise.
+- [Creating Our Own Mad Lib API](https://paper.dropbox.com/doc/Creating-Our-Own-Mad-Lib-API--AbbYv3tpp5A8byRlGlNY0B2gAg-vjBvnX1M7UcDEAcFOkG1b)
+- One on one reviews.
+
+### Homework
+
+- Finish creating your Mad Lib websites. Your websites should be able to pull data from each student's API. This can be done in a random
+way, or based on user input. It will likely be easiest to use a combination of HTML, CSS and JavaScript to insert the data from the API
+into your web page. We'll discuss several techniques in class for how to achieve this.
+- Make sure to handle errors in the `$.get` function by using the `fail` callback in the example provided in the Paper doc in case any of the endpoints
+return bad data.
