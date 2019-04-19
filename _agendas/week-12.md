@@ -30,3 +30,20 @@ way, or based on user input. It will likely be easiest to use a combination of H
 into your web page. We'll discuss several techniques in class for how to achieve this.
 - Make sure to handle errors in the `$.get` function by using the `fail` callback in the example provided in the Paper doc in case any of the endpoints
 return bad data.
+
+---
+
+### Friday, Studio
+
+- Simran presents on Susan Kare
+- Review [userflows and wireframes](https://paper.dropbox.com/doc/User-Flows-and-Wireframes--AXKIiGCUq52XdCS8VrZujFU7AQ-SiwIpBpGAlNBJuYgQbugm)
+- Look at an example of how a product designer might discuss his/her work and present their process
+- Take a step back and map out the userflow of your project. Then, working in Sketchk, decide on something to compare (for example, navigation for your project, or a general layout). Create two clickable prototypes testing out this feature. Invite a partner(s) to test out your comparison. Record your findings and your exploration on a single page website discussing what you tested, why, and how it might impact your final design.
+- Work on project
+
+
+### Homework
+- Find two job descriptions for jobs you might consider. Find one that you think is well written, and one that is poorly written.
+- Reading: [A Brief Rant on the Future of Interaction Design](http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/)
+- Gavin is the discussion leader
+- Continue developing your project. Begin programming.
