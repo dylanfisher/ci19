@@ -38,7 +38,7 @@ return bad data.
 - Simran presents on Susan Kare
 - Review [userflows and wireframes](https://paper.dropbox.com/doc/User-Flows-and-Wireframes--AXKIiGCUq52XdCS8VrZujFU7AQ-SiwIpBpGAlNBJuYgQbugm)
 - Look at an example of how a product designer might discuss his/her work and present their process
-- Take a step back and map out the userflow of your project. Then, working in Sketchk, decide on something to compare (for example, navigation for your project, or a general layout). Create two clickable prototypes testing out this feature. Invite a partner(s) to test out your comparison. Record your findings and your exploration on a single page website discussing what you tested, why, and how it might impact your final design.
+- Take a step back and map out the userflow of your project. Then, working in Sketch, decide on something to compare (for example, navigation for your project, or a general layout). Create two clickable prototypes testing out this feature. Invite a partner(s) to test out your comparison. Record your findings and your exploration on a single page website discussing what you tested, why, and how it might impact your final design.
 - Work on project
 
 
