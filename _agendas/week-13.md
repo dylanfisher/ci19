@@ -27,7 +27,7 @@ date_range:       4/23 – 4/26
 - If you are using an API for your final project you should now be able to successfully pull information
   from the API and manipulate your website with it in JavaScript. If you are unable to do this let's figure it
   out together.
-- if you are not using an API, let's discuss how you will be using JavaScript to create a dynamic website that
+- If you are not using an API, let's discuss how you will be using JavaScript to create a dynamic website that
   generates content or otherwise responds to external factors.
 
 ### Homework
