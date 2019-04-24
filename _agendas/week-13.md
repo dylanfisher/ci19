@@ -1,6 +1,6 @@
 ---
 title:            Week 13
-start_date:       2019-04-09 00:00:00 -0500
+start_date:       2019-04-23 00:00:00 -0500
 date_range:       4/23 – 4/26
 ---
 
@@ -21,3 +21,18 @@ date_range:       4/23 – 4/26
 
 ---
 
+### Wednesday, Lab
+
+- Workshop time and individual meetings.
+- If you are using an API for your final project you should now be able to successfully pull information
+  from the API and manipulate your website with it in JavaScript. If you are unable to do this let's figure it
+  out together.
+- if you are not using an API, let's discuss how you will be using JavaScript to create a dynamic website that
+  generates content or otherwise responds to external factors.
+
+### Homework
+
+- Continue programming Live Data projects. Identify problem areas that you may need help solving and reach out for help.
+- Consider setting up additional time to meet with our [Tutor Specialists](/info/#tutor-schedule).
+
+---
