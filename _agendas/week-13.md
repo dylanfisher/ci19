@@ -36,3 +36,19 @@ date_range:       4/23 – 4/26
 - Consider setting up additional time to meet with our [Tutor Specialists](/info/#tutor-schedule).
 
 ---
+
+### Friday, Studio
+
+- Guest speaker [Talia Cotton](https://taliacotton.com/)
+- Look at poster 1 of poster series as class
+- Take a look at the job descriptions you saved. Share them with a classmate. What kind of skills do you think each job requires? Consider what kind of projects you might share for these positions. Let&rsquo;s talk about it.
+- Further reading: [The AIGA Guide to Careers in Graphic and Communication Design](https://www.aiga.org/guide-careerguide)
+- Work on projects
+
+### Homework
+
+- Make progress on your final project
+- Reading: [The Rise and Fall of Internet Art Communities](https://www.artsy.net/article/artsy-editorial-rise-fall-internet-art-communities)
+- Pick a discussion leader
+
+---
