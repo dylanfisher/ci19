@@ -17,3 +17,12 @@ date_range:       4/30 – 5/03
 
 
 ---
+
+### Wednesday, Lab
+
+- Discuss differences between client side and server side programming languages.
+- Understanding the code you find on the internet.
+- Discuss "Sophomore Project Collection" – how to document websites using video and full-browser screenshots.
+- Workshop time and individual meetings.
+
+---
