@@ -26,3 +26,15 @@ date_range:       4/30 – 5/03
 - Workshop time and individual meetings.
 
 ---
+
+### Friday, Studio
+
+- Guest speaker Sachi Chandiramani
+- Review [documenting Interactive Work (in regards to your sophomore review)](https://paper.dropbox.com/doc/Presenting-Interactive-Work--AcYoRhED_zKCDyvsEalo_iWzAQ-4F99AElX23JuKlp3fR9fC)
+- Share my own career path
+- Cecilia presents on the podcast [Invisible Networks by James Bridle](https://www.bbc.co.uk/sounds/play/m000458l) and introduce James Bridle
+
+### Homework
+
+- Mary and Aileen are our final discussion leaders. [But What if We're Wrong (excerpt) – Chuck Klostemran](https://www.livescience.com/55766-book-excerpt-but-what-if-were-wrong.html) and [Good Point Podcast on Aesthetics](https://soundcloud.com/goodpoint/53-aesthetics) (choose which one you want to do)
+- Come prepared to show progress on your final project. Last studio work day is Tuesday!
