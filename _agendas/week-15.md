@@ -19,7 +19,10 @@ date_range:       5/07 – 5/10
 
 - Final workshop day!
 
-### Homework
+---
+
+### Friday, Studio
+
 - If you&rsquo;re on deck (meaning up next), your job is to kick off the conversation!
 - Additionally, be prepared to talk about what you learned and any observations regarding ideas you&rsquo;re exploring through your work so far
 - Order:
@@ -40,11 +43,6 @@ date_range:       5/07 – 5/10
   - Vesper Zheng
   - Mary Wedd
 
----
-
-### Friday, Studio
-
-- Final workshop day!
 
 ### Homework
 
