@@ -17,7 +17,6 @@ date_range:       2/04 – 2/08
 ### Homework
 - Read through [Maxims](../projects/maxims) and create a presentation that introduces 3 different ideas for the contents of your text. The presentation should introduce each concept and begin exploring what it will look like.
 - Choose a discussion leader for the below reading
-- Read [Conversation 1: art.yale.edu (pages 3 through 17 in this pdf)](https://www.dropbox.com/s/p1ikztkma7mi0xf/yale-reader.pdf?dl=0) and write a [discussion question](https://docs.google.com/document/d/1EzxwqxXGLd2a0oGzoalJIt3CRRbPxdPdn6J9j_Ph3vc/edit?usp=sharing)
 
 ---
 
@@ -40,8 +39,6 @@ date_range:       2/04 – 2/08
 
 ### Friday, Studio
 
-- Amaya presents on the below
-- [Talk](https://docs.google.com/document/d/1EzxwqxXGLd2a0oGzoalJIt3CRRbPxdPdn6J9j_Ph3vc/edit?usp=sharing) about [art.yale.edu](https://www.dropbox.com/s/p1ikztkma7mi0xf/yale-reader.pdf?dl=0)
 - Reminder regarding Core Interaction tutors and our T.A
 - Introduce [Sketch, userflow and wireframes](https://paper.dropbox.com/doc/User-Flows-and-Wireframes--AXKIiGCUq52XdCS8VrZujFU7AQ-SiwIpBpGAlNBJuYgQbugm)
 - Introduce [are.na](https://www.are.na/)
